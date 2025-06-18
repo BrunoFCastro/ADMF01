@@ -1,0 +1,618 @@
+"Nome":El Carreiro, "Cozinha":Argentina, Parrilla, "Endereco":Alameda Dilson Jatahy Fonseca, 2150 Stella Maris - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":La Lupa, "Cozinha":Italiana, Mediterrânea, "Endereco":Rua Direita do Santo Antônio, 491 Santo Antônio Além do Carmo - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cedro - Quality Hotel e Suítes São Salvador, "Cozinha":Contemporânea, "Endereco":Rua Jose Peroba, 244 Stiep - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Canto Restaurante, "Cozinha":Internacional, "Endereco":Travessa Prudente de Moraes, 65 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Joca Mesa Bar, "Cozinha":Contemporânea, Regional, "Endereco":Rua Direita de Santo Antônio, 90 Santo Antônio - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Allê Varanda bar, "Cozinha":, "Endereco":Rua Direita de Santo Antônio, 01 Santo Antônio - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":O Bistrô, "Cozinha":, "Endereco":Rua Borges dos Reis, 81 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Mariposa - Vilas do Atlântico, "Cozinha":, "Endereco":Avenida Praia de Itapoan, 367 Vilas do Atlântico - Lauro de Freitas - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":KI-Mukeka Espress, "Cozinha":, "Endereco":Rodovia BA-526, 526 São Cristóvão - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Solar Rio Vermelho, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 24 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Gastronomia, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Bartholomeu de Gusmão, 140 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasárgada Kebab Grill & Bar, "Cozinha":Árabe, Oriental, "Endereco":Praça Brigadeiro Faria Rocha, 44 A Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Amada Lisboa Restaurante - Salvador, "Cozinha":Portuguesa, "Endereco":Praça Brigadeiro Faria Rocha, 2c Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Mar, "Cozinha":Mediterrânea, "Endereco":Travessa Bartholomeu de Gusmão, 754 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Silva, "Cozinha":Contemporânea, "Endereco":Rua da Paciência, 295 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vishnu Culinária Indiana, "Cozinha":Indiana, "Endereco":Rua Itabuna, 286 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":AYRÀ, "Cozinha":, "Endereco":Rua da Paciência, 127 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Ainá Lamen, "Cozinha":Japonesa, "Endereco":Travessa Bartholomeu de Gusmão, 104 Rio Vermelho - Salvador - BA, "Valor":Menu RW - Jantar: R$ 74,90
+"Nome":Solar Rio Vermelho, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 24 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Gastronomia, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Bartholomeu de Gusmão, 140 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasárgada Kebab Grill & Bar, "Cozinha":Árabe, Oriental, "Endereco":Praça Brigadeiro Faria Rocha, 44 A Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Amada Lisboa Restaurante - Salvador, "Cozinha":Portuguesa, "Endereco":Praça Brigadeiro Faria Rocha, 2c Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Mar, "Cozinha":Mediterrânea, "Endereco":Travessa Bartholomeu de Gusmão, 754 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Silva, "Cozinha":Contemporânea, "Endereco":Rua da Paciência, 295 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vishnu Culinária Indiana, "Cozinha":Indiana, "Endereco":Rua Itabuna, 286 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":AYRÀ, "Cozinha":, "Endereco":Rua da Paciência, 127 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Ainá Lamen, "Cozinha":Japonesa, "Endereco":Travessa Bartholomeu de Gusmão, 104 Rio Vermelho - Salvador - BA, "Valor":Menu RW - Jantar: R$ 74,90
+"Nome":Solar Rio Vermelho, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 24 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Gastronomia, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Bartholomeu de Gusmão, 140 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasárgada Kebab Grill & Bar, "Cozinha":Árabe, Oriental, "Endereco":Praça Brigadeiro Faria Rocha, 44 A Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Amada Lisboa Restaurante - Salvador, "Cozinha":Portuguesa, "Endereco":Praça Brigadeiro Faria Rocha, 2c Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Mar, "Cozinha":Mediterrânea, "Endereco":Travessa Bartholomeu de Gusmão, 754 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Silva, "Cozinha":Contemporânea, "Endereco":Rua da Paciência, 295 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vishnu Culinária Indiana, "Cozinha":Indiana, "Endereco":Rua Itabuna, 286 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":AYRÀ, "Cozinha":, "Endereco":Rua da Paciência, 127 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Ainá Lamen, "Cozinha":Japonesa, "Endereco":Travessa Bartholomeu de Gusmão, 104 Rio Vermelho - Salvador - BA, "Valor":Menu RW - Jantar: R$ 74,90
+"Nome":Solar Rio Vermelho, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 24 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Gastronomia, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Bartholomeu de Gusmão, 140 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasárgada Kebab Grill & Bar, "Cozinha":Árabe, Oriental, "Endereco":Praça Brigadeiro Faria Rocha, 44 A Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Amada Lisboa Restaurante - Salvador, "Cozinha":Portuguesa, "Endereco":Praça Brigadeiro Faria Rocha, 2c Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Mar, "Cozinha":Mediterrânea, "Endereco":Travessa Bartholomeu de Gusmão, 754 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Silva, "Cozinha":Contemporânea, "Endereco":Rua da Paciência, 295 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vishnu Culinária Indiana, "Cozinha":Indiana, "Endereco":Rua Itabuna, 286 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":AYRÀ, "Cozinha":, "Endereco":Rua da Paciência, 127 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Ainá Lamen, "Cozinha":Japonesa, "Endereco":Travessa Bartholomeu de Gusmão, 104 Rio Vermelho - Salvador - BA, "Valor":Menu RW - Jantar: R$ 74,90
+"Nome":Solar Rio Vermelho, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 24 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Gastronomia, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Bartholomeu de Gusmão, 140 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasárgada Kebab Grill & Bar, "Cozinha":Árabe, Oriental, "Endereco":Praça Brigadeiro Faria Rocha, 44 A Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Amada Lisboa Restaurante - Salvador, "Cozinha":Portuguesa, "Endereco":Praça Brigadeiro Faria Rocha, 2c Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vini Figueira Mar, "Cozinha":Mediterrânea, "Endereco":Travessa Bartholomeu de Gusmão, 754 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Silva, "Cozinha":Contemporânea, "Endereco":Rua da Paciência, 295 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vishnu Culinária Indiana, "Cozinha":Indiana, "Endereco":Rua Itabuna, 286 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":AYRÀ, "Cozinha":, "Endereco":Rua da Paciência, 127 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Ainá Lamen, "Cozinha":Japonesa, "Endereco":Travessa Bartholomeu de Gusmão, 104 Rio Vermelho - Salvador - BA, "Valor":Menu RW - Jantar: R$ 74,90
+"Nome":Bottino Ristorante Italiano, "Cozinha":Italiana, "Endereco":Praça Brigadeiro Faria Rocha, 2D Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Confraria das Ostras, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 8 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Isola Cucina Italiana, "Cozinha":Italiana, "Endereco":Rua Guedes Cabral, 123 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Salvador Dalí, "Cozinha":Contemporânea, "Endereco":Rua Borges dos Reis, 11 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Boteco Português, "Cozinha":Portuguesa, "Endereco":Rua Borges dos Reis, 16 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Jabu Resto & Bar, "Cozinha":Fusion, "Endereco":Rua Eurycles de Mattos, 191 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":CÖA Restaurante e Bar, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Basílio de Magalhães, 44 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Principote, "Cozinha":Mediterrânea, "Endereco":Rua Barro Vermelho, 180, Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Rio Vermelho, "Cozinha":Italiana, "Endereco":Rua Professora Almerinda Dultra, 67 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Bottino Ristorante Italiano, "Cozinha":Italiana, "Endereco":Praça Brigadeiro Faria Rocha, 2D Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Confraria das Ostras, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 8 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Isola Cucina Italiana, "Cozinha":Italiana, "Endereco":Rua Guedes Cabral, 123 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Salvador Dalí, "Cozinha":Contemporânea, "Endereco":Rua Borges dos Reis, 11 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Boteco Português, "Cozinha":Portuguesa, "Endereco":Rua Borges dos Reis, 16 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Jabu Resto & Bar, "Cozinha":Fusion, "Endereco":Rua Eurycles de Mattos, 191 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":CÖA Restaurante e Bar, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Basílio de Magalhães, 44 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Principote, "Cozinha":Mediterrânea, "Endereco":Rua Barro Vermelho, 180, Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Rio Vermelho, "Cozinha":Italiana, "Endereco":Rua Professora Almerinda Dultra, 67 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Bottino Ristorante Italiano, "Cozinha":Italiana, "Endereco":Praça Brigadeiro Faria Rocha, 2D Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Confraria das Ostras, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 8 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Isola Cucina Italiana, "Cozinha":Italiana, "Endereco":Rua Guedes Cabral, 123 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Salvador Dalí, "Cozinha":Contemporânea, "Endereco":Rua Borges dos Reis, 11 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Boteco Português, "Cozinha":Portuguesa, "Endereco":Rua Borges dos Reis, 16 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Jabu Resto & Bar, "Cozinha":Fusion, "Endereco":Rua Eurycles de Mattos, 191 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":CÖA Restaurante e Bar, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Basílio de Magalhães, 44 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Principote, "Cozinha":Mediterrânea, "Endereco":Rua Barro Vermelho, 180, Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Rio Vermelho, "Cozinha":Italiana, "Endereco":Rua Professora Almerinda Dultra, 67 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Bottino Ristorante Italiano, "Cozinha":Italiana, "Endereco":Praça Brigadeiro Faria Rocha, 2D Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Confraria das Ostras, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 8 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Isola Cucina Italiana, "Cozinha":Italiana, "Endereco":Rua Guedes Cabral, 123 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Salvador Dalí, "Cozinha":Contemporânea, "Endereco":Rua Borges dos Reis, 11 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Boteco Português, "Cozinha":Portuguesa, "Endereco":Rua Borges dos Reis, 16 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Jabu Resto & Bar, "Cozinha":Fusion, "Endereco":Rua Eurycles de Mattos, 191 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":CÖA Restaurante e Bar, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Basílio de Magalhães, 44 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Principote, "Cozinha":Mediterrânea, "Endereco":Rua Barro Vermelho, 180, Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Rio Vermelho, "Cozinha":Italiana, "Endereco":Rua Professora Almerinda Dultra, 67 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Bottino Ristorante Italiano, "Cozinha":Italiana, "Endereco":Praça Brigadeiro Faria Rocha, 2D Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Confraria das Ostras, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 8 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Isola Cucina Italiana, "Cozinha":Italiana, "Endereco":Rua Guedes Cabral, 123 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Salvador Dalí, "Cozinha":Contemporânea, "Endereco":Rua Borges dos Reis, 11 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Boteco Português, "Cozinha":Portuguesa, "Endereco":Rua Borges dos Reis, 16 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Jabu Resto & Bar, "Cozinha":Fusion, "Endereco":Rua Eurycles de Mattos, 191 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":CÖA Restaurante e Bar, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Basílio de Magalhães, 44 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Principote, "Cozinha":Mediterrânea, "Endereco":Rua Barro Vermelho, 180, Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Rio Vermelho, "Cozinha":Italiana, "Endereco":Rua Professora Almerinda Dultra, 67 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Bottino Ristorante Italiano, "Cozinha":Italiana, "Endereco":Praça Brigadeiro Faria Rocha, 2D Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Confraria das Ostras, "Cozinha":Contemporânea, "Endereco":Rua Fonte do Boi, 8 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Isola Cucina Italiana, "Cozinha":Italiana, "Endereco":Rua Guedes Cabral, 123 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Salvador Dalí, "Cozinha":Contemporânea, "Endereco":Rua Borges dos Reis, 11 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Boteco Português, "Cozinha":Portuguesa, "Endereco":Rua Borges dos Reis, 16 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Jabu Resto & Bar, "Cozinha":Fusion, "Endereco":Rua Eurycles de Mattos, 191 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":CÖA Restaurante e Bar, "Cozinha":Contemporânea, Internacional, "Endereco":Travessa Basílio de Magalhães, 44 Rio Vermelho - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Principote, "Cozinha":Mediterrânea, "Endereco":Rua Barro Vermelho, 180, Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Rio Vermelho, "Cozinha":Italiana, "Endereco":Rua Professora Almerinda Dultra, 67 Rio Vermelho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":aSè Gastrobar - Hotel Mercure Pituba, "Cozinha":Contemporânea, Tradicional, "Endereco":Av. Prof. Magalhães Neto, 296 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Martim Pescador - Pituba, "Cozinha":Frutos do mar, Japonesa, "Endereco":Rua das Hortencias, 246 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Riz Bistrot, "Cozinha":Francesa, "Endereco":Rua Almirante Carlos Paraguaçu de Sá, 82 - Espaço Villa Gourmet Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Le Vin Empório - Pituba, "Cozinha":Contemporânea, "Endereco":Rua Minas Gerais, 193 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":La Pasta Gialla - Pituba, "Cozinha":Italiana, "Endereco":Rua São Paulo, 488 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cremonini, "Cozinha":Italiana, "Endereco":Rua Alexandre Herculano, 18 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Varanda Baiana, "Cozinha":, "Endereco":Avenida Beira Mar, 473 Ribeira - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cazolla - Pituba, "Cozinha":Hamburgueria, "Endereco":Avenida Paulo VI, 1828 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bouchon Empório, "Cozinha":, "Endereco":Rua Minas Gerais, 254 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":aSè Gastrobar - Hotel Mercure Pituba, "Cozinha":Contemporânea, Tradicional, "Endereco":Av. Prof. Magalhães Neto, 296 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Martim Pescador - Pituba, "Cozinha":Frutos do mar, Japonesa, "Endereco":Rua das Hortencias, 246 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Riz Bistrot, "Cozinha":Francesa, "Endereco":Rua Almirante Carlos Paraguaçu de Sá, 82 - Espaço Villa Gourmet Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Le Vin Empório - Pituba, "Cozinha":Contemporânea, "Endereco":Rua Minas Gerais, 193 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":La Pasta Gialla - Pituba, "Cozinha":Italiana, "Endereco":Rua São Paulo, 488 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cremonini, "Cozinha":Italiana, "Endereco":Rua Alexandre Herculano, 18 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Varanda Baiana, "Cozinha":, "Endereco":Avenida Beira Mar, 473 Ribeira - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cazolla - Pituba, "Cozinha":Hamburgueria, "Endereco":Avenida Paulo VI, 1828 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bouchon Empório, "Cozinha":, "Endereco":Rua Minas Gerais, 254 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":aSè Gastrobar - Hotel Mercure Pituba, "Cozinha":Contemporânea, Tradicional, "Endereco":Av. Prof. Magalhães Neto, 296 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Martim Pescador - Pituba, "Cozinha":Frutos do mar, Japonesa, "Endereco":Rua das Hortencias, 246 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Riz Bistrot, "Cozinha":Francesa, "Endereco":Rua Almirante Carlos Paraguaçu de Sá, 82 - Espaço Villa Gourmet Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Le Vin Empório - Pituba, "Cozinha":Contemporânea, "Endereco":Rua Minas Gerais, 193 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":La Pasta Gialla - Pituba, "Cozinha":Italiana, "Endereco":Rua São Paulo, 488 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cremonini, "Cozinha":Italiana, "Endereco":Rua Alexandre Herculano, 18 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Varanda Baiana, "Cozinha":, "Endereco":Avenida Beira Mar, 473 Ribeira - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cazolla - Pituba, "Cozinha":Hamburgueria, "Endereco":Avenida Paulo VI, 1828 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bouchon Empório, "Cozinha":, "Endereco":Rua Minas Gerais, 254 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":aSè Gastrobar - Hotel Mercure Pituba, "Cozinha":Contemporânea, Tradicional, "Endereco":Av. Prof. Magalhães Neto, 296 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Martim Pescador - Pituba, "Cozinha":Frutos do mar, Japonesa, "Endereco":Rua das Hortencias, 246 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Riz Bistrot, "Cozinha":Francesa, "Endereco":Rua Almirante Carlos Paraguaçu de Sá, 82 - Espaço Villa Gourmet Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Le Vin Empório - Pituba, "Cozinha":Contemporânea, "Endereco":Rua Minas Gerais, 193 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":La Pasta Gialla - Pituba, "Cozinha":Italiana, "Endereco":Rua São Paulo, 488 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cremonini, "Cozinha":Italiana, "Endereco":Rua Alexandre Herculano, 18 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Varanda Baiana, "Cozinha":, "Endereco":Avenida Beira Mar, 473 Ribeira - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cazolla - Pituba, "Cozinha":Hamburgueria, "Endereco":Avenida Paulo VI, 1828 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bouchon Empório, "Cozinha":, "Endereco":Rua Minas Gerais, 254 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Yan Ping, "Cozinha":Japonesa, Chinesa, "Endereco":Avenida Paulo VI, 73 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Arabesque, "Cozinha":Árabe, "Endereco":Rua das Dálias, 505 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Puxadinho Restaurante, "Cozinha":Brasileira, "Endereco":Rua Guillard Muniz, 650 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":la Bottega antipasti & vino, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 - Terraço Villa San Luigi Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lar Café Bistrô, "Cozinha":, "Endereco":Rua das Margaridas, 104 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Purgatório Bar, "Cozinha":Brasileira, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Proa Bar, "Cozinha":Contemporânea, "Endereco":Rua das Hortênsias, 288 - Ao lado da fundação baiana de cardiologia Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Di Giuseppe, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pirambeira, "Cozinha":, "Endereco":Rua Guillard Muniz, 629 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Yan Ping, "Cozinha":Japonesa, Chinesa, "Endereco":Avenida Paulo VI, 73 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Arabesque, "Cozinha":Árabe, "Endereco":Rua das Dálias, 505 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Puxadinho Restaurante, "Cozinha":Brasileira, "Endereco":Rua Guillard Muniz, 650 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":la Bottega antipasti & vino, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 - Terraço Villa San Luigi Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lar Café Bistrô, "Cozinha":, "Endereco":Rua das Margaridas, 104 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Purgatório Bar, "Cozinha":Brasileira, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Proa Bar, "Cozinha":Contemporânea, "Endereco":Rua das Hortênsias, 288 - Ao lado da fundação baiana de cardiologia Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Di Giuseppe, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pirambeira, "Cozinha":, "Endereco":Rua Guillard Muniz, 629 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Yan Ping, "Cozinha":Japonesa, Chinesa, "Endereco":Avenida Paulo VI, 73 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Arabesque, "Cozinha":Árabe, "Endereco":Rua das Dálias, 505 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Puxadinho Restaurante, "Cozinha":Brasileira, "Endereco":Rua Guillard Muniz, 650 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":la Bottega antipasti & vino, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 - Terraço Villa San Luigi Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lar Café Bistrô, "Cozinha":, "Endereco":Rua das Margaridas, 104 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Purgatório Bar, "Cozinha":Brasileira, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Proa Bar, "Cozinha":Contemporânea, "Endereco":Rua das Hortênsias, 288 - Ao lado da fundação baiana de cardiologia Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Di Giuseppe, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pirambeira, "Cozinha":, "Endereco":Rua Guillard Muniz, 629 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":aSè Gastrobar - Hotel Mercure Pituba, "Cozinha":Contemporânea, Tradicional, "Endereco":Av. Prof. Magalhães Neto, 296 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Martim Pescador - Pituba, "Cozinha":Frutos do mar, Japonesa, "Endereco":Rua das Hortencias, 246 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Riz Bistrot, "Cozinha":Francesa, "Endereco":Rua Almirante Carlos Paraguaçu de Sá, 82 - Espaço Villa Gourmet Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Le Vin Empório - Pituba, "Cozinha":Contemporânea, "Endereco":Rua Minas Gerais, 193 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":La Pasta Gialla - Pituba, "Cozinha":Italiana, "Endereco":Rua São Paulo, 488 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cremonini, "Cozinha":Italiana, "Endereco":Rua Alexandre Herculano, 18 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Varanda Baiana, "Cozinha":, "Endereco":Avenida Beira Mar, 473 Ribeira - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cazolla - Pituba, "Cozinha":Hamburgueria, "Endereco":Avenida Paulo VI, 1828 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bouchon Empório, "Cozinha":, "Endereco":Rua Minas Gerais, 254 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Buddha Bistro Asiático, "Cozinha":Asiática, "Endereco":Rua das Rosas, 492 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Maria Mata Mouro, "Cozinha":Contemporânea, "Endereco":R. da Ordem Terceira, 08 Pelourinho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Muy Massa, "Cozinha":, "Endereco":Rua Almirante Carlos Paraguassú de Sá, 36 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":James Steakhouse, "Cozinha":Steakhouse, "Endereco":Avenida Luís Viana Filho, 8544 Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":RED, "Cozinha":Comfort Food, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Martim Pescador - Shopping Paralela, "Cozinha":Frutos do mar, "Endereco":Avenida Luís Viana Filho, 8544 - Área gourmet do Shopping Paralela Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Pituba, "Cozinha":, "Endereco":Rua Artur Gomes de Carvalho, 630 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Casa Iryna, "Cozinha":Contemporânea, Italiana, "Endereco":Rua Alexandre Herculano, 57 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":JP Steakhouse, "Cozinha":Churrascaria, "Endereco":Rua Manoel Antonio Galvão, 32 Pituaçu - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Yan Ping, "Cozinha":Japonesa, Chinesa, "Endereco":Avenida Paulo VI, 73 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Arabesque, "Cozinha":Árabe, "Endereco":Rua das Dálias, 505 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Puxadinho Restaurante, "Cozinha":Brasileira, "Endereco":Rua Guillard Muniz, 650 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":la Bottega antipasti & vino, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 - Terraço Villa San Luigi Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lar Café Bistrô, "Cozinha":, "Endereco":Rua das Margaridas, 104 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Purgatório Bar, "Cozinha":Brasileira, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Proa Bar, "Cozinha":Contemporânea, "Endereco":Rua das Hortênsias, 288 - Ao lado da fundação baiana de cardiologia Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Di Giuseppe, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pirambeira, "Cozinha":, "Endereco":Rua Guillard Muniz, 629 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Buddha Bistro Asiático, "Cozinha":Asiática, "Endereco":Rua das Rosas, 492 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Maria Mata Mouro, "Cozinha":Contemporânea, "Endereco":R. da Ordem Terceira, 08 Pelourinho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Muy Massa, "Cozinha":, "Endereco":Rua Almirante Carlos Paraguassú de Sá, 36 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":James Steakhouse, "Cozinha":Steakhouse, "Endereco":Avenida Luís Viana Filho, 8544 Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":RED, "Cozinha":Comfort Food, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Martim Pescador - Shopping Paralela, "Cozinha":Frutos do mar, "Endereco":Avenida Luís Viana Filho, 8544 - Área gourmet do Shopping Paralela Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Pituba, "Cozinha":, "Endereco":Rua Artur Gomes de Carvalho, 630 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Casa Iryna, "Cozinha":Contemporânea, Italiana, "Endereco":Rua Alexandre Herculano, 57 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":JP Steakhouse, "Cozinha":Churrascaria, "Endereco":Rua Manoel Antonio Galvão, 32 Pituaçu - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Yan Ping, "Cozinha":Japonesa, Chinesa, "Endereco":Avenida Paulo VI, 73 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Arabesque, "Cozinha":Árabe, "Endereco":Rua das Dálias, 505 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Puxadinho Restaurante, "Cozinha":Brasileira, "Endereco":Rua Guillard Muniz, 650 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":la Bottega antipasti & vino, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 - Terraço Villa San Luigi Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lar Café Bistrô, "Cozinha":, "Endereco":Rua das Margaridas, 104 Pituba - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Purgatório Bar, "Cozinha":Brasileira, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Proa Bar, "Cozinha":Contemporânea, "Endereco":Rua das Hortênsias, 288 - Ao lado da fundação baiana de cardiologia Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Di Giuseppe, "Cozinha":Italiana, "Endereco":Rua Amazonas, 1111 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pirambeira, "Cozinha":, "Endereco":Rua Guillard Muniz, 629 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Buddha Bistro Asiático, "Cozinha":Asiática, "Endereco":Rua das Rosas, 492 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Maria Mata Mouro, "Cozinha":Contemporânea, "Endereco":R. da Ordem Terceira, 08 Pelourinho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Muy Massa, "Cozinha":, "Endereco":Rua Almirante Carlos Paraguassú de Sá, 36 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":James Steakhouse, "Cozinha":Steakhouse, "Endereco":Avenida Luís Viana Filho, 8544 Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":RED, "Cozinha":Comfort Food, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Martim Pescador - Shopping Paralela, "Cozinha":Frutos do mar, "Endereco":Avenida Luís Viana Filho, 8544 - Área gourmet do Shopping Paralela Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Pituba, "Cozinha":, "Endereco":Rua Artur Gomes de Carvalho, 630 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Casa Iryna, "Cozinha":Contemporânea, Italiana, "Endereco":Rua Alexandre Herculano, 57 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":JP Steakhouse, "Cozinha":Churrascaria, "Endereco":Rua Manoel Antonio Galvão, 32 Pituaçu - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Buddha Bistro Asiático, "Cozinha":Asiática, "Endereco":Rua das Rosas, 492 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Maria Mata Mouro, "Cozinha":Contemporânea, "Endereco":R. da Ordem Terceira, 08 Pelourinho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Muy Massa, "Cozinha":, "Endereco":Rua Almirante Carlos Paraguassú de Sá, 36 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":James Steakhouse, "Cozinha":Steakhouse, "Endereco":Avenida Luís Viana Filho, 8544 Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":RED, "Cozinha":Comfort Food, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Martim Pescador - Shopping Paralela, "Cozinha":Frutos do mar, "Endereco":Avenida Luís Viana Filho, 8544 - Área gourmet do Shopping Paralela Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Pituba, "Cozinha":, "Endereco":Rua Artur Gomes de Carvalho, 630 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Casa Iryna, "Cozinha":Contemporânea, Italiana, "Endereco":Rua Alexandre Herculano, 57 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":JP Steakhouse, "Cozinha":Churrascaria, "Endereco":Rua Manoel Antonio Galvão, 32 Pituaçu - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Buddha Bistro Asiático, "Cozinha":Asiática, "Endereco":Rua das Rosas, 492 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Maria Mata Mouro, "Cozinha":Contemporânea, "Endereco":R. da Ordem Terceira, 08 Pelourinho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Muy Massa, "Cozinha":, "Endereco":Rua Almirante Carlos Paraguassú de Sá, 36 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":James Steakhouse, "Cozinha":Steakhouse, "Endereco":Avenida Luís Viana Filho, 8544 Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":RED, "Cozinha":Comfort Food, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Martim Pescador - Shopping Paralela, "Cozinha":Frutos do mar, "Endereco":Avenida Luís Viana Filho, 8544 - Área gourmet do Shopping Paralela Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Pituba, "Cozinha":, "Endereco":Rua Artur Gomes de Carvalho, 630 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Casa Iryna, "Cozinha":Contemporânea, Italiana, "Endereco":Rua Alexandre Herculano, 57 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":JP Steakhouse, "Cozinha":Churrascaria, "Endereco":Rua Manoel Antonio Galvão, 32 Pituaçu - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Casa Di Vina, "Cozinha":Mediterrânea, "Endereco":Rua Flamengo, 44 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mistura - Itapuã, "Cozinha":Mediterrânea, "Endereco":Rua Professor Souza Brito, 41 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping Paralela, "Cozinha":Contemporânea, "Endereco":Av. Luís Viana, 8544 Paralela - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":La Pulperia - Paseo, "Cozinha":Argentina, Parrilla, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Santiago Culinária Ibérica, "Cozinha":Espanhola, Ibérica, "Endereco":Avenida Oceânica, 1404, Dentro do Clube Espanhol Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Di Liana, "Cozinha":Italiana, "Endereco":Rua Macapá, 314 Ondina - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cave Queijos, "Cozinha":Internacional, "Endereco":Rua Morro do Escravo Miguel, 297, Loja 10 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Ondina, "Cozinha":Italiana, "Endereco":Rua Professor Sabino Silva, 822 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Restaurante Cascais, "Cozinha":, "Endereco":Rua Manoel Dias de Morais, 35 Jardim Apipema - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Buddha Bistro Asiático, "Cozinha":Asiática, "Endereco":Rua das Rosas, 492 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Maria Mata Mouro, "Cozinha":Contemporânea, "Endereco":R. da Ordem Terceira, 08 Pelourinho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Muy Massa, "Cozinha":, "Endereco":Rua Almirante Carlos Paraguassú de Sá, 36 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":James Steakhouse, "Cozinha":Steakhouse, "Endereco":Avenida Luís Viana Filho, 8544 Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":RED, "Cozinha":Comfort Food, "Endereco":Rua Alexandre Herculano, 45 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Martim Pescador - Shopping Paralela, "Cozinha":Frutos do mar, "Endereco":Avenida Luís Viana Filho, 8544 - Área gourmet do Shopping Paralela Patamares - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Pituba, "Cozinha":, "Endereco":Rua Artur Gomes de Carvalho, 630 Pituba - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Casa Iryna, "Cozinha":Contemporânea, Italiana, "Endereco":Rua Alexandre Herculano, 57 Pituba - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":JP Steakhouse, "Cozinha":Churrascaria, "Endereco":Rua Manoel Antonio Galvão, 32 Pituaçu - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Casa Di Vina, "Cozinha":Mediterrânea, "Endereco":Rua Flamengo, 44 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mistura - Itapuã, "Cozinha":Mediterrânea, "Endereco":Rua Professor Souza Brito, 41 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping Paralela, "Cozinha":Contemporânea, "Endereco":Av. Luís Viana, 8544 Paralela - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":La Pulperia - Paseo, "Cozinha":Argentina, Parrilla, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Santiago Culinária Ibérica, "Cozinha":Espanhola, Ibérica, "Endereco":Avenida Oceânica, 1404, Dentro do Clube Espanhol Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Di Liana, "Cozinha":Italiana, "Endereco":Rua Macapá, 314 Ondina - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cave Queijos, "Cozinha":Internacional, "Endereco":Rua Morro do Escravo Miguel, 297, Loja 10 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Ondina, "Cozinha":Italiana, "Endereco":Rua Professor Sabino Silva, 822 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Restaurante Cascais, "Cozinha":, "Endereco":Rua Manoel Dias de Morais, 35 Jardim Apipema - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Casa Di Vina, "Cozinha":Mediterrânea, "Endereco":Rua Flamengo, 44 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mistura - Itapuã, "Cozinha":Mediterrânea, "Endereco":Rua Professor Souza Brito, 41 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping Paralela, "Cozinha":Contemporânea, "Endereco":Av. Luís Viana, 8544 Paralela - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":La Pulperia - Paseo, "Cozinha":Argentina, Parrilla, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Santiago Culinária Ibérica, "Cozinha":Espanhola, Ibérica, "Endereco":Avenida Oceânica, 1404, Dentro do Clube Espanhol Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Di Liana, "Cozinha":Italiana, "Endereco":Rua Macapá, 314 Ondina - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cave Queijos, "Cozinha":Internacional, "Endereco":Rua Morro do Escravo Miguel, 297, Loja 10 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Ondina, "Cozinha":Italiana, "Endereco":Rua Professor Sabino Silva, 822 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Restaurante Cascais, "Cozinha":, "Endereco":Rua Manoel Dias de Morais, 35 Jardim Apipema - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Soho - Shopping Paseo Itaigara, "Cozinha":Japonesa, "Endereco":Rua Rubens Guelli, 135 - Shopping Paseo Itaigara, Pavimento Térreo - Itaigara - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Orí, "Cozinha":Contemporânea, Regional, "Endereco":Av. Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Almacen Pepe, "Cozinha":Contemporânea, Oriental, "Endereco":Av. Santa Luzia, 985 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Casa Nero Pizzahouse, "Cozinha":, "Endereco":Rua Waldemar Falcão, 1916 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Racletto, "Cozinha":Internacional, "Endereco":Avenida Santa Luzia, 1000 Loja 9 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cantina Volpi - Paseo Itaigara, "Cozinha":Italiana, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bóia Restaurante, "Cozinha":, "Endereco":Rua José avena, 01 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Megiro Boteco, "Cozinha":Brasileira, "Endereco":Avenida Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mõrea, "Cozinha":Asiática, "Endereco":Rua Estácio Gonzaga, 00 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Casa Di Vina, "Cozinha":Mediterrânea, "Endereco":Rua Flamengo, 44 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mistura - Itapuã, "Cozinha":Mediterrânea, "Endereco":Rua Professor Souza Brito, 41 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping Paralela, "Cozinha":Contemporânea, "Endereco":Av. Luís Viana, 8544 Paralela - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":La Pulperia - Paseo, "Cozinha":Argentina, Parrilla, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Santiago Culinária Ibérica, "Cozinha":Espanhola, Ibérica, "Endereco":Avenida Oceânica, 1404, Dentro do Clube Espanhol Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Di Liana, "Cozinha":Italiana, "Endereco":Rua Macapá, 314 Ondina - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cave Queijos, "Cozinha":Internacional, "Endereco":Rua Morro do Escravo Miguel, 297, Loja 10 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Ondina, "Cozinha":Italiana, "Endereco":Rua Professor Sabino Silva, 822 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Restaurante Cascais, "Cozinha":, "Endereco":Rua Manoel Dias de Morais, 35 Jardim Apipema - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Casa Di Vina, "Cozinha":Mediterrânea, "Endereco":Rua Flamengo, 44 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mistura - Itapuã, "Cozinha":Mediterrânea, "Endereco":Rua Professor Souza Brito, 41 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping Paralela, "Cozinha":Contemporânea, "Endereco":Av. Luís Viana, 8544 Paralela - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":La Pulperia - Paseo, "Cozinha":Argentina, Parrilla, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Santiago Culinária Ibérica, "Cozinha":Espanhola, Ibérica, "Endereco":Avenida Oceânica, 1404, Dentro do Clube Espanhol Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Di Liana, "Cozinha":Italiana, "Endereco":Rua Macapá, 314 Ondina - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cave Queijos, "Cozinha":Internacional, "Endereco":Rua Morro do Escravo Miguel, 297, Loja 10 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Ondina, "Cozinha":Italiana, "Endereco":Rua Professor Sabino Silva, 822 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Restaurante Cascais, "Cozinha":, "Endereco":Rua Manoel Dias de Morais, 35 Jardim Apipema - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Soho - Shopping Paseo Itaigara, "Cozinha":Japonesa, "Endereco":Rua Rubens Guelli, 135 - Shopping Paseo Itaigara, Pavimento Térreo - Itaigara - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Orí, "Cozinha":Contemporânea, Regional, "Endereco":Av. Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Almacen Pepe, "Cozinha":Contemporânea, Oriental, "Endereco":Av. Santa Luzia, 985 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Casa Nero Pizzahouse, "Cozinha":, "Endereco":Rua Waldemar Falcão, 1916 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Racletto, "Cozinha":Internacional, "Endereco":Avenida Santa Luzia, 1000 Loja 9 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cantina Volpi - Paseo Itaigara, "Cozinha":Italiana, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bóia Restaurante, "Cozinha":, "Endereco":Rua José avena, 01 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Megiro Boteco, "Cozinha":Brasileira, "Endereco":Avenida Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mõrea, "Cozinha":Asiática, "Endereco":Rua Estácio Gonzaga, 00 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Casa Di Vina, "Cozinha":Mediterrânea, "Endereco":Rua Flamengo, 44 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mistura - Itapuã, "Cozinha":Mediterrânea, "Endereco":Rua Professor Souza Brito, 41 Itapuã - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping Paralela, "Cozinha":Contemporânea, "Endereco":Av. Luís Viana, 8544 Paralela - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":La Pulperia - Paseo, "Cozinha":Argentina, Parrilla, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Santiago Culinária Ibérica, "Cozinha":Espanhola, Ibérica, "Endereco":Avenida Oceânica, 1404, Dentro do Clube Espanhol Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Di Liana, "Cozinha":Italiana, "Endereco":Rua Macapá, 314 Ondina - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cave Queijos, "Cozinha":Internacional, "Endereco":Rua Morro do Escravo Miguel, 297, Loja 10 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Cantina Volpi - Ondina, "Cozinha":Italiana, "Endereco":Rua Professor Sabino Silva, 822 Ondina - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Restaurante Cascais, "Cozinha":, "Endereco":Rua Manoel Dias de Morais, 35 Jardim Apipema - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Soho - Shopping Paseo Itaigara, "Cozinha":Japonesa, "Endereco":Rua Rubens Guelli, 135 - Shopping Paseo Itaigara, Pavimento Térreo - Itaigara - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Orí, "Cozinha":Contemporânea, Regional, "Endereco":Av. Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Almacen Pepe, "Cozinha":Contemporânea, Oriental, "Endereco":Av. Santa Luzia, 985 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Casa Nero Pizzahouse, "Cozinha":, "Endereco":Rua Waldemar Falcão, 1916 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Racletto, "Cozinha":Internacional, "Endereco":Avenida Santa Luzia, 1000 Loja 9 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cantina Volpi - Paseo Itaigara, "Cozinha":Italiana, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bóia Restaurante, "Cozinha":, "Endereco":Rua José avena, 01 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Megiro Boteco, "Cozinha":Brasileira, "Endereco":Avenida Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mõrea, "Cozinha":Asiática, "Endereco":Rua Estácio Gonzaga, 00 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Soho - Shopping Paseo Itaigara, "Cozinha":Japonesa, "Endereco":Rua Rubens Guelli, 135 - Shopping Paseo Itaigara, Pavimento Térreo - Itaigara - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Orí, "Cozinha":Contemporânea, Regional, "Endereco":Av. Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Almacen Pepe, "Cozinha":Contemporânea, Oriental, "Endereco":Av. Santa Luzia, 985 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Casa Nero Pizzahouse, "Cozinha":, "Endereco":Rua Waldemar Falcão, 1916 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Racletto, "Cozinha":Internacional, "Endereco":Avenida Santa Luzia, 1000 Loja 9 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cantina Volpi - Paseo Itaigara, "Cozinha":Italiana, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bóia Restaurante, "Cozinha":, "Endereco":Rua José avena, 01 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Megiro Boteco, "Cozinha":Brasileira, "Endereco":Avenida Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mõrea, "Cozinha":Asiática, "Endereco":Rua Estácio Gonzaga, 00 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Soho - Shopping Paseo Itaigara, "Cozinha":Japonesa, "Endereco":Rua Rubens Guelli, 135 - Shopping Paseo Itaigara, Pavimento Térreo - Itaigara - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Orí, "Cozinha":Contemporânea, Regional, "Endereco":Av. Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Almacen Pepe, "Cozinha":Contemporânea, Oriental, "Endereco":Av. Santa Luzia, 985 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Casa Nero Pizzahouse, "Cozinha":, "Endereco":Rua Waldemar Falcão, 1916 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Racletto, "Cozinha":Internacional, "Endereco":Avenida Santa Luzia, 1000 Loja 9 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cantina Volpi - Paseo Itaigara, "Cozinha":Italiana, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bóia Restaurante, "Cozinha":, "Endereco":Rua José avena, 01 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Megiro Boteco, "Cozinha":Brasileira, "Endereco":Avenida Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mõrea, "Cozinha":Asiática, "Endereco":Rua Estácio Gonzaga, 00 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Soho - Shopping Paseo Itaigara, "Cozinha":Japonesa, "Endereco":Rua Rubens Guelli, 135 - Shopping Paseo Itaigara, Pavimento Térreo - Itaigara - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Orí, "Cozinha":Contemporânea, Regional, "Endereco":Av. Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Almacen Pepe, "Cozinha":Contemporânea, Oriental, "Endereco":Av. Santa Luzia, 985 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Casa Nero Pizzahouse, "Cozinha":, "Endereco":Rua Waldemar Falcão, 1916 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Racletto, "Cozinha":Internacional, "Endereco":Avenida Santa Luzia, 1000 Loja 9 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cantina Volpi - Paseo Itaigara, "Cozinha":Italiana, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bóia Restaurante, "Cozinha":, "Endereco":Rua José avena, 01 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Megiro Boteco, "Cozinha":Brasileira, "Endereco":Avenida Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mõrea, "Cozinha":Asiática, "Endereco":Rua Estácio Gonzaga, 00 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Soho - Shopping Paseo Itaigara, "Cozinha":Japonesa, "Endereco":Rua Rubens Guelli, 135 - Shopping Paseo Itaigara, Pavimento Térreo - Itaigara - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Restaurante Orí, "Cozinha":Contemporânea, Regional, "Endereco":Av. Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Almacen Pepe, "Cozinha":Contemporânea, Oriental, "Endereco":Av. Santa Luzia, 985 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Casa Nero Pizzahouse, "Cozinha":, "Endereco":Rua Waldemar Falcão, 1916 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Racletto, "Cozinha":Internacional, "Endereco":Avenida Santa Luzia, 1000 Loja 9 Horto Florestal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Cantina Volpi - Paseo Itaigara, "Cozinha":Italiana, "Endereco":Rua Rubens Guelli, 135 Itaigara - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Bóia Restaurante, "Cozinha":, "Endereco":Rua José avena, 01 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Megiro Boteco, "Cozinha":Brasileira, "Endereco":Avenida Santa Luzia, 656 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Mõrea, "Cozinha":Asiática, "Endereco":Rua Estácio Gonzaga, 00 Horto Florestal - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Lôro - Bahia Marina, "Cozinha":Frutos do mar, Baiana, "Endereco":Av. Lafayete Coutinho, 1010 - Loja 01 - Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lafayette - Bahia Marina, "Cozinha":Mediterrânea, "Endereco":Av. Lafayette Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Soho - Bahia Marina, "Cozinha":Japonesa, "Endereco":Av. Lafayete Coutinho, 1010 - Bahia Marina, Pier D - Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lotti Cucina, "Cozinha":Italiana, "Endereco":Avenida Lafayete Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Chez Bernard Restaurant, "Cozinha":, "Endereco":Rua Gamboa de Cima, 11 Dois de Julho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cazinha Bistrô, "Cozinha":, "Endereco":Rua Desembargador Castelo Branco, 44 Dois de Julho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Bistrô, "Cozinha":, "Endereco":Rua da Graça, 284 Graça - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Leto Gastronomia, "Cozinha":, "Endereco":Avenida Lafayete Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vona, "Cozinha":, "Endereco":Rua Luis Martins Catharino Gordilho, 41 Graça - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lôro - Bahia Marina, "Cozinha":Frutos do mar, Baiana, "Endereco":Av. Lafayete Coutinho, 1010 - Loja 01 - Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lafayette - Bahia Marina, "Cozinha":Mediterrânea, "Endereco":Av. Lafayette Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Soho - Bahia Marina, "Cozinha":Japonesa, "Endereco":Av. Lafayete Coutinho, 1010 - Bahia Marina, Pier D - Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lotti Cucina, "Cozinha":Italiana, "Endereco":Avenida Lafayete Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Chez Bernard Restaurant, "Cozinha":, "Endereco":Rua Gamboa de Cima, 11 Dois de Julho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cazinha Bistrô, "Cozinha":, "Endereco":Rua Desembargador Castelo Branco, 44 Dois de Julho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Bistrô, "Cozinha":, "Endereco":Rua da Graça, 284 Graça - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Leto Gastronomia, "Cozinha":, "Endereco":Avenida Lafayete Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vona, "Cozinha":, "Endereco":Rua Luis Martins Catharino Gordilho, 41 Graça - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Torre de Pizza, "Cozinha":Pizzaria, "Endereco":Av Santos Dumont, 4360 - Parque Shopping da Bahia - Centro - Lauro de Freitas - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Restaurante OMI, "Cozinha":Contemporânea, "Endereco":Rua Chile, 20 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Carvão, "Cozinha":Churrascaria, "Endereco":Rua prof Sabino Silva, 5 Chame-Chame - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Genaro por Vini Figueira, "Cozinha":Ibérica, Regional, "Endereco":Avenida Sete de Setembro, 1537 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Gero, "Cozinha":, "Endereco":Praça Castro Alves, 05 - HOTEL FASANO Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Tira-Chapéu, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pala 7 Rooftop, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Amado, "Cozinha":Internacional, "Endereco":Avenida Lafayete Coutinho, 660 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casaria Salvador, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lôro - Bahia Marina, "Cozinha":Frutos do mar, Baiana, "Endereco":Av. Lafayete Coutinho, 1010 - Loja 01 - Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lafayette - Bahia Marina, "Cozinha":Mediterrânea, "Endereco":Av. Lafayette Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Soho - Bahia Marina, "Cozinha":Japonesa, "Endereco":Av. Lafayete Coutinho, 1010 - Bahia Marina, Pier D - Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Lotti Cucina, "Cozinha":Italiana, "Endereco":Avenida Lafayete Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Chez Bernard Restaurant, "Cozinha":, "Endereco":Rua Gamboa de Cima, 11 Dois de Julho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cazinha Bistrô, "Cozinha":, "Endereco":Rua Desembargador Castelo Branco, 44 Dois de Julho - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Bistrô, "Cozinha":, "Endereco":Rua da Graça, 284 Graça - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Leto Gastronomia, "Cozinha":, "Endereco":Avenida Lafayete Coutinho, 1010 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Vona, "Cozinha":, "Endereco":Rua Luis Martins Catharino Gordilho, 41 Graça - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Torre de Pizza, "Cozinha":Pizzaria, "Endereco":Av Santos Dumont, 4360 - Parque Shopping da Bahia - Centro - Lauro de Freitas - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Restaurante OMI, "Cozinha":Contemporânea, "Endereco":Rua Chile, 20 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Carvão, "Cozinha":Churrascaria, "Endereco":Rua prof Sabino Silva, 5 Chame-Chame - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Genaro por Vini Figueira, "Cozinha":Ibérica, Regional, "Endereco":Avenida Sete de Setembro, 1537 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Gero, "Cozinha":, "Endereco":Praça Castro Alves, 05 - HOTEL FASANO Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Tira-Chapéu, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pala 7 Rooftop, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Amado, "Cozinha":Internacional, "Endereco":Avenida Lafayete Coutinho, 660 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casaria Salvador, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Torre de Pizza, "Cozinha":Pizzaria, "Endereco":Av Santos Dumont, 4360 - Parque Shopping da Bahia - Centro - Lauro de Freitas - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Restaurante OMI, "Cozinha":Contemporânea, "Endereco":Rua Chile, 20 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Carvão, "Cozinha":Churrascaria, "Endereco":Rua prof Sabino Silva, 5 Chame-Chame - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Genaro por Vini Figueira, "Cozinha":Ibérica, Regional, "Endereco":Avenida Sete de Setembro, 1537 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Gero, "Cozinha":, "Endereco":Praça Castro Alves, 05 - HOTEL FASANO Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Tira-Chapéu, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pala 7 Rooftop, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Amado, "Cozinha":Internacional, "Endereco":Avenida Lafayete Coutinho, 660 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casaria Salvador, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Torre de Pizza, "Cozinha":Pizzaria, "Endereco":Av Santos Dumont, 4360 - Parque Shopping da Bahia - Centro - Lauro de Freitas - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Restaurante OMI, "Cozinha":Contemporânea, "Endereco":Rua Chile, 20 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Carvão, "Cozinha":Churrascaria, "Endereco":Rua prof Sabino Silva, 5 Chame-Chame - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Genaro por Vini Figueira, "Cozinha":Ibérica, Regional, "Endereco":Avenida Sete de Setembro, 1537 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Gero, "Cozinha":, "Endereco":Praça Castro Alves, 05 - HOTEL FASANO Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Tira-Chapéu, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pala 7 Rooftop, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Amado, "Cozinha":Internacional, "Endereco":Avenida Lafayete Coutinho, 660 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casaria Salvador, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Torre de Pizza, "Cozinha":Pizzaria, "Endereco":Av Santos Dumont, 4360 - Parque Shopping da Bahia - Centro - Lauro de Freitas - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Restaurante OMI, "Cozinha":Contemporânea, "Endereco":Rua Chile, 20 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Carvão, "Cozinha":Churrascaria, "Endereco":Rua prof Sabino Silva, 5 Chame-Chame - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Genaro por Vini Figueira, "Cozinha":Ibérica, Regional, "Endereco":Avenida Sete de Setembro, 1537 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Gero, "Cozinha":, "Endereco":Praça Castro Alves, 05 - HOTEL FASANO Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Tira-Chapéu, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pala 7 Rooftop, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Amado, "Cozinha":Internacional, "Endereco":Avenida Lafayete Coutinho, 660 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casaria Salvador, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Torre de Pizza, "Cozinha":Pizzaria, "Endereco":Av Santos Dumont, 4360 - Parque Shopping da Bahia - Centro - Lauro de Freitas - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Restaurante OMI, "Cozinha":Contemporânea, "Endereco":Rua Chile, 20 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Carvão, "Cozinha":Churrascaria, "Endereco":Rua prof Sabino Silva, 5 Chame-Chame - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Genaro por Vini Figueira, "Cozinha":Ibérica, Regional, "Endereco":Avenida Sete de Setembro, 1537 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Gero, "Cozinha":, "Endereco":Praça Castro Alves, 05 - HOTEL FASANO Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Tira-Chapéu, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pala 7 Rooftop, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Amado, "Cozinha":Internacional, "Endereco":Avenida Lafayete Coutinho, 660 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casaria Salvador, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Torre de Pizza, "Cozinha":Pizzaria, "Endereco":Av Santos Dumont, 4360 - Parque Shopping da Bahia - Centro - Lauro de Freitas - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Restaurante OMI, "Cozinha":Contemporânea, "Endereco":Rua Chile, 20 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Carvão, "Cozinha":Churrascaria, "Endereco":Rua prof Sabino Silva, 5 Chame-Chame - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Genaro por Vini Figueira, "Cozinha":Ibérica, Regional, "Endereco":Avenida Sete de Setembro, 1537 Centro - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Gero, "Cozinha":, "Endereco":Praça Castro Alves, 05 - HOTEL FASANO Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Preta Tira-Chapéu, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pala 7 Rooftop, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Amado, "Cozinha":Internacional, "Endereco":Avenida Lafayete Coutinho, 660 Comércio - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casaria Salvador, "Cozinha":, "Endereco":Rua do Tira Chapéu, 1 Centro Histórico - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Al Mare - Salvador Shopping, "Cozinha":Frutos do mar, "Endereco":Av. Tancredo Neves, 3133 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Bella Napoli, "Cozinha":Italiana, "Endereco":Alameda das Espatódias, 491 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Mariposa, "Cozinha":Comfort Food, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Pecorino Bar & Trattoria - Salvador shopping, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Ki-Mukeka - Salvador Shopping, "Cozinha":Regional, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":A Taberna, "Cozinha":, "Endereco":Rua Waldemar Falcão, 232 Candeal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casa Chálabi, "Cozinha":, "Endereco":Rua Prof. Almerinda Dultra, 67 Rio vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Zaffe, "Cozinha":Contemporânea, "Endereco":Rua Leonor Calmon, 256 Candeal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Casa de Moá, "Cozinha":, "Endereco":Avenida Santo Antônio, 141 Capuchinhos - Feira de Santana - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Al Mare - Salvador Shopping, "Cozinha":Frutos do mar, "Endereco":Av. Tancredo Neves, 3133 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Bella Napoli, "Cozinha":Italiana, "Endereco":Alameda das Espatódias, 491 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Mariposa, "Cozinha":Comfort Food, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Pecorino Bar & Trattoria - Salvador shopping, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Ki-Mukeka - Salvador Shopping, "Cozinha":Regional, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":A Taberna, "Cozinha":, "Endereco":Rua Waldemar Falcão, 232 Candeal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casa Chálabi, "Cozinha":, "Endereco":Rua Prof. Almerinda Dultra, 67 Rio vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Zaffe, "Cozinha":Contemporânea, "Endereco":Rua Leonor Calmon, 256 Candeal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Casa de Moá, "Cozinha":, "Endereco":Avenida Santo Antônio, 141 Capuchinhos - Feira de Santana - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Al Mare - Salvador Shopping, "Cozinha":Frutos do mar, "Endereco":Av. Tancredo Neves, 3133 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Bella Napoli, "Cozinha":Italiana, "Endereco":Alameda das Espatódias, 491 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Mariposa, "Cozinha":Comfort Food, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Pecorino Bar & Trattoria - Salvador shopping, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Ki-Mukeka - Salvador Shopping, "Cozinha":Regional, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":A Taberna, "Cozinha":, "Endereco":Rua Waldemar Falcão, 232 Candeal - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Casa Chálabi, "Cozinha":, "Endereco":Rua Prof. Almerinda Dultra, 67 Rio vermelho - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Zaffe, "Cozinha":Contemporânea, "Endereco":Rua Leonor Calmon, 256 Candeal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Casa de Moá, "Cozinha":, "Endereco":Avenida Santo Antônio, 141 Capuchinhos - Feira de Santana - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Mamma Jamma - Shopping Barra, "Cozinha":Pizzaria, "Endereco":Av. Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Barravento, "Cozinha":Mediterrânea, Baiana, "Endereco":Av. Oceanica, 814 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Alfredo Ro, "Cozinha":Italiana, "Endereco":Avenida Oceânica, 2004 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sette Restaurante, "Cozinha":Contemporânea, "Endereco":Avenida Sete de Setembro, 3157 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Baby Beef Sport Bar, "Cozinha":Carnes e Grelhados, "Endereco":Arena Parque Santiago, Avenida Santiago de Compostela, S/N Brotas - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":138 THE BAR, "Cozinha":Contemporânea, Regional, "Endereco":Rua Belo Horizonte, Dentro do The Hotel Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sagratto Café Bar, "Cozinha":, "Endereco":Largo da Baixa do Bonfim, S/N Bonfim - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Santiago Culinária Ibérica - Shopping Barra, "Cozinha":Contemporânea, Ibérica, "Endereco":Avenida Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Healthy por victoria cintra, "Cozinha":Saudável, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Mamma Jamma - Shopping Barra, "Cozinha":Pizzaria, "Endereco":Av. Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Barravento, "Cozinha":Mediterrânea, Baiana, "Endereco":Av. Oceanica, 814 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Alfredo Ro, "Cozinha":Italiana, "Endereco":Avenida Oceânica, 2004 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sette Restaurante, "Cozinha":Contemporânea, "Endereco":Avenida Sete de Setembro, 3157 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Baby Beef Sport Bar, "Cozinha":Carnes e Grelhados, "Endereco":Arena Parque Santiago, Avenida Santiago de Compostela, S/N Brotas - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":138 THE BAR, "Cozinha":Contemporânea, Regional, "Endereco":Rua Belo Horizonte, Dentro do The Hotel Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sagratto Café Bar, "Cozinha":, "Endereco":Largo da Baixa do Bonfim, S/N Bonfim - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Santiago Culinária Ibérica - Shopping Barra, "Cozinha":Contemporânea, Ibérica, "Endereco":Avenida Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Healthy por victoria cintra, "Cozinha":Saudável, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping Barra, "Cozinha":Pizzaria, "Endereco":Av. Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Barravento, "Cozinha":Mediterrânea, Baiana, "Endereco":Av. Oceanica, 814 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Alfredo Ro, "Cozinha":Italiana, "Endereco":Avenida Oceânica, 2004 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sette Restaurante, "Cozinha":Contemporânea, "Endereco":Avenida Sete de Setembro, 3157 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Baby Beef Sport Bar, "Cozinha":Carnes e Grelhados, "Endereco":Arena Parque Santiago, Avenida Santiago de Compostela, S/N Brotas - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":138 THE BAR, "Cozinha":Contemporânea, Regional, "Endereco":Rua Belo Horizonte, Dentro do The Hotel Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sagratto Café Bar, "Cozinha":, "Endereco":Largo da Baixa do Bonfim, S/N Bonfim - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Santiago Culinária Ibérica - Shopping Barra, "Cozinha":Contemporânea, Ibérica, "Endereco":Avenida Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Healthy por victoria cintra, "Cozinha":Saudável, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":La Pulperia - Brotas, "Cozinha":Argentina, Parrilla, "Endereco":Rua novo Horizonte, 39 Acupe de Brotas - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Pereira Restaurante - Porto da Barra, "Cozinha":Contemporânea, "Endereco":Av. Sete de Setembro, 3959 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Alphaville, "Cozinha":Italiana, "Endereco":Avenida Alphaville, 52 Alphaville I - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cantina Volpi - Paralela, "Cozinha":Italiana, "Endereco":Avenida Alphaville, 7417 Alphaville I - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Spot Barra, "Cozinha":, "Endereco":Avenida Oceânica, 859 Barra - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Healthy POR VC, "Cozinha":, "Endereco":Avenida Centenário - Shopping Barra, 2992 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
