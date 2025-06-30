@@ -1,0 +1,134 @@
+"Nome":Zaffe, "Cozinha":Contemporânea, "Endereco":Rua Leonor Calmon, 256 Candeal - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Casa de Moá, "Cozinha":, "Endereco":Avenida Santo Antônio, 141 Capuchinhos - Feira de Santana - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Barbacoa - Salvador, "Cozinha":Carnes e Grelhados, "Endereco":Av. Tancredo Neves, 909 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Ferreiro Café - Salvador Shopping, "Cozinha":Contemporânea, Internacional, "Endereco":Av. Tancredo Neves, 3133 - 1 Piso, Loja 1035 - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Gattai - Salvador Shopping, "Cozinha":Japonesa, "Endereco":Av. Tancredo Neves, 2915 - Espaço Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Azougue Carnes na Brasa - Salvador Shopping, "Cozinha":Carnes e Grelhados, "Endereco":Av. Trancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Martim Pescador - Shopping da Bahia, "Cozinha":Frutos do mar, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Mundo Plaza, "Cozinha":, "Endereco":Avenida Tancredo Neves, 620 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Salvador Shopping, "Cozinha":, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Seven Wonders Café - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Bistro Casa Tua, "Cozinha":, "Endereco":Alameda das Seringueiras, 42 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Mamma Jamma - Shopping Barra, "Cozinha":Pizzaria, "Endereco":Av. Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Barravento, "Cozinha":Mediterrânea, Baiana, "Endereco":Av. Oceanica, 814 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Alfredo Ro, "Cozinha":Italiana, "Endereco":Avenida Oceânica, 2004 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sette Restaurante, "Cozinha":Contemporânea, "Endereco":Avenida Sete de Setembro, 3157 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Baby Beef Sport Bar, "Cozinha":Carnes e Grelhados, "Endereco":Arena Parque Santiago, Avenida Santiago de Compostela, S/N Brotas - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":138 THE BAR, "Cozinha":Contemporânea, Regional, "Endereco":Rua Belo Horizonte, Dentro do The Hotel Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sagratto Café Bar, "Cozinha":, "Endereco":Largo da Baixa do Bonfim, S/N Bonfim - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Santiago Culinária Ibérica - Shopping Barra, "Cozinha":Contemporânea, Ibérica, "Endereco":Avenida Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Healthy por victoria cintra, "Cozinha":Saudável, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":33 Contemporâneo, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 3133 - Plaza Gourmet, 1 Piso - Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pereira Café - Shopping da Bahia, "Cozinha":Contemporânea, "Endereco":Av. Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Zuuk Sushi, "Cozinha":Oriental, Tradicional, "Endereco":Alameda dos Sombreiros, 980 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Le Vin - Mercure Boulevard, "Cozinha":Contemporânea, "Endereco":Rua Ewerton Visco, 160 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Lotti Osteria, "Cozinha":Italiana, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":YAYA, "Cozinha":Hamburgueria, Lanches, "Endereco":Avenida Tancredo Neves, 3133 - Salvador Shopping Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping da Bahia, "Cozinha":, "Endereco":Avenida Tancredo Neves, 148 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Suarez Trade, "Cozinha":, "Endereco":Avenida Tancredo Neves, 450 Caminho das Árvores - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Azougue - Salvador Norte Shopping, "Cozinha":, "Endereco":BA-526, 305 - São Cristóvão, Salvador Norte Shopping, 305 Caminho das Árvores - Salvador - BA, "Valor":Menu +Plus - Jantar: R$ 94,90
+"Nome":Mamma Jamma - Shopping Barra, "Cozinha":Pizzaria, "Endereco":Av. Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Barravento, "Cozinha":Mediterrânea, Baiana, "Endereco":Av. Oceanica, 814 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Alfredo Ro, "Cozinha":Italiana, "Endereco":Avenida Oceânica, 2004 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sette Restaurante, "Cozinha":Contemporânea, "Endereco":Avenida Sete de Setembro, 3157 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Baby Beef Sport Bar, "Cozinha":Carnes e Grelhados, "Endereco":Arena Parque Santiago, Avenida Santiago de Compostela, S/N Brotas - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":138 THE BAR, "Cozinha":Contemporânea, Regional, "Endereco":Rua Belo Horizonte, Dentro do The Hotel Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sagratto Café Bar, "Cozinha":, "Endereco":Largo da Baixa do Bonfim, S/N Bonfim - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Santiago Culinária Ibérica - Shopping Barra, "Cozinha":Contemporânea, Ibérica, "Endereco":Avenida Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Healthy por victoria cintra, "Cozinha":Saudável, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Mamma Jamma - Shopping Barra, "Cozinha":Pizzaria, "Endereco":Av. Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Barravento, "Cozinha":Mediterrânea, Baiana, "Endereco":Av. Oceanica, 814 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Alfredo Ro, "Cozinha":Italiana, "Endereco":Avenida Oceânica, 2004 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sette Restaurante, "Cozinha":Contemporânea, "Endereco":Avenida Sete de Setembro, 3157 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Baby Beef Sport Bar, "Cozinha":Carnes e Grelhados, "Endereco":Arena Parque Santiago, Avenida Santiago de Compostela, S/N Brotas - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":138 THE BAR, "Cozinha":Contemporânea, Regional, "Endereco":Rua Belo Horizonte, Dentro do The Hotel Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Sagratto Café Bar, "Cozinha":, "Endereco":Largo da Baixa do Bonfim, S/N Bonfim - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Santiago Culinária Ibérica - Shopping Barra, "Cozinha":Contemporânea, Ibérica, "Endereco":Avenida Centenário, 2992 Barra - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90 - Jantar: R$ 94,90
+"Nome":Healthy por victoria cintra, "Cozinha":Saudável, "Endereco":Avenida Tancredo Neves, 3133 Caminho das Árvores - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":La Pulperia - Brotas, "Cozinha":Argentina, Parrilla, "Endereco":Rua novo Horizonte, 39 Acupe de Brotas - Salvador - BA, "Valor":Menu Premium - Jantar: R$ 115,00
+"Nome":Pereira Restaurante - Porto da Barra, "Cozinha":Contemporânea, "Endereco":Av. Sete de Setembro, 3959 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Pasta em Casa - Alphaville, "Cozinha":Italiana, "Endereco":Avenida Alphaville, 52 Alphaville I - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
+"Nome":Cantina Volpi - Paralela, "Cozinha":Italiana, "Endereco":Avenida Alphaville, 7417 Alphaville I - Salvador - BA, "Valor":Menu +Plus - Almoço: R$ 73,90
+"Nome":Seven Wonders Café - Spot Barra, "Cozinha":, "Endereco":Avenida Oceânica, 859 Barra - Salvador - BA, "Valor":Menu RW - Almoço: R$ 59,90
+"Nome":Healthy POR VC, "Cozinha":, "Endereco":Avenida Centenário - Shopping Barra, 2992 Barra - Salvador - BA, "Valor":Menu Premium - Almoço: R$ 95,00 - Jantar: R$ 115,00
